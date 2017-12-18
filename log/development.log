@@ -225,3 +225,10 @@ Cannot render console from 110.14.193.114! Allowed networks: 127.0.0.1, ::1, 127
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 66ms (Views: 64.8ms)
+
+
+Started GET "/" for 110.14.193.114 at 2017-12-18 11:46:24 +0000
+Cannot render console from 110.14.193.114! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 291ms (Views: 280.1ms)
