@@ -1,0 +1,12 @@
+Started GET "/" for 127.0.0.1 at 2017-12-18 11:39:42 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 2265ms (Views: 2255.5ms)
+Started GET "/" for 127.0.0.1 at 2017-12-18 11:39:45 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/" for 127.0.0.1 at 2017-12-18 11:39:45 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
